@@ -1,2 +1,2 @@
-# Grafos-IFPB
+# Grafos
 Codigos da disciplina Teoria dos Grafos.
